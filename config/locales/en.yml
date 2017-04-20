@@ -85,10 +85,10 @@ en:
       unknown_error: "Unknown error."
       internal_error: "Internal error."
   about:
-    copyright: "Copyright 2008-2013 SoftUnity."
+    copyright: "Copyright 2008-2015 SoftUnity."
     right_reserved: "All Rights Reserved."
     about_program: "About program"
-    author: "Main developer"
+    author: "Lead developer"
     contributors: "Contributors"
     contributors_list: "list"
     web_site: "Web site"
